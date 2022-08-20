@@ -35,8 +35,9 @@ console.log(aboutMe.openForWork); // true
 
 
 ### Resources
+* <a href='https://www.youtube.com/watch?v=pOCbKhoVirA' target='_blank'>TomDoesTech</a>
 * Badges: <a href='https://github.com/Ileriayo/markdown-badges' target='_blank'>Copyright (c) 2020 Ileriayo Adebiyi</a>
 * Profile Badge: <a href='https://github.com/antonkomarev/github-profile-views-counter' target='_blank'>Copyright (c) Anton Komarev <anton@komarev.com></a>
 * Stats: <a href='https://github.com/anuraghazra/github-readme-stats' target='_blank'>Copyright (c) 2020 Anurag Hazra</a>
 * Streak stat: <a href='https://github.com/DenverCoder1/github-readme-streak-stats' target='_blank'>Copyright (c) 2020 Jonah Lawrence</a>
-* <a href='https://www.youtube.com/watch?v=pOCbKhoVirA' target='_blank'>TomDoesTech</a>
+
