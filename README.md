@@ -8,7 +8,7 @@
 </div>
 
 ### How it's going:
-<img src="https://github-readme-stats.vercel.app/api?username=plang-psm&show_icons=true&theme=radical" alt="github stats" width='48%' align="left" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=plang-psm&layout=compact" alt="languages used" width='48%' />
+<img src="https://github-readme-stats.vercel.app/api?username=plang-psm&show_icons=true&theme=radical" alt="github stats" width='47%' align="left" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=plang-psm&layout=compact" alt="languages used" width='47%' />
 
 <img src="http://github-readme-streak-stats.herokuapp.com?user=plang-psm&theme=dark&background=000000" alt="languages used" width='98%' />
 
