@@ -4,7 +4,7 @@
 <a href='https://www.linkedin.com/in/plang-psm/' target='_blank'>![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) </a>
 ![Scrimba](https://img.shields.io/badge/scrimba-2B283A?style=for-the-badge&logo=scrimba&logoColor=white)
 
-<img src="https://komarev.com/ghpvc/?username=plang-psm&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=plang-psm&style=for-the-badge&color=blue" alt=""/>
 </div>
 
 ### How it's going:
