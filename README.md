@@ -23,6 +23,11 @@ const aboutMe = {
     location: "Los Angeles",
     frontendDeveloper: true,
     openForWork: true,
+    volunteer: {
+      company: 'Hack for LA',
+      title: 'Front End Developer',
+      start: 08/2022
+    },
     school: {
       name: 'Western Governors University',
       major: 'Computer Science',
