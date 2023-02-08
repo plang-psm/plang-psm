@@ -21,17 +21,17 @@
 const aboutMe = {
     name: 'Phillip',
     location: "Los Angeles",
-    frontendDeveloper: true,
+    softwareEngineer: true,
     openForWork: true,
     volunteer: {
       company: 'Hack for LA',
-      title: 'Front End Developer',
+      title: 'Software Engineer',
       start: 08/2022
     },
     school: {
       name: 'Western Governors University',
       major: 'Computer Science',
-      graduationDate: 2023
+      graduationYear: 2023
     }
 }
 
