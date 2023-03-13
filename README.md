@@ -21,11 +21,11 @@
 const aboutMe = {
     name: 'Phillip',
     location: "Los Angeles",
-    softwareDeveloper: true,
+    softwareEngineer: true,
     openForWork: true,
     experience: {
       company: 'Hack for LA',
-      title: 'Software Developer',
+      title: 'Software Engineer',
       start: 08/2022
     },
     school: {
