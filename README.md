@@ -25,7 +25,7 @@ const aboutMe = {
     openForWork: true,
     experience: {
       company: 'Hack for LA',
-      title: 'Software Engineer',
+      title: 'Full Stack Developer',
       start: 08/2022
     },
     school: {
