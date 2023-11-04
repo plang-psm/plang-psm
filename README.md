@@ -31,7 +31,7 @@ const aboutMe = {
     school: {
       name: 'Western Governors University',
       major: 'Computer Science',
-      graduationYear: 2023
+      graduationYear: 2024
     }
 }
 
